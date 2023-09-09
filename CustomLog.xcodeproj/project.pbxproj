@@ -11,6 +11,7 @@
 		43B902192AAC44FA00964E7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B902182AAC44FA00964E7D /* ContentView.swift */; };
 		43B9021B2AAC44FC00964E7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43B9021A2AAC44FC00964E7D /* Assets.xcassets */; };
 		43B9021F2AAC44FC00964E7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43B9021E2AAC44FC00964E7D /* Preview Assets.xcassets */; };
+		43B902262AAC450E00964E7D /* CustomLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B902252AAC450E00964E7D /* CustomLog.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		43B9021A2AAC44FC00964E7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43B9021C2AAC44FC00964E7D /* CustomLog.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CustomLog.entitlements; sourceTree = "<group>"; };
 		43B9021E2AAC44FC00964E7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		43B902252AAC450E00964E7D /* CustomLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLog.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				43B902162AAC44FA00964E7D /* CustomLogApp.swift */,
 				43B902182AAC44FA00964E7D /* ContentView.swift */,
+				43B902252AAC450E00964E7D /* CustomLog.swift */,
 				43B9021A2AAC44FC00964E7D /* Assets.xcassets */,
 				43B9021C2AAC44FC00964E7D /* CustomLog.entitlements */,
 				43B9021D2AAC44FC00964E7D /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				43B902192AAC44FA00964E7D /* ContentView.swift in Sources */,
 				43B902172AAC44FA00964E7D /* CustomLogApp.swift in Sources */,
+				43B902262AAC450E00964E7D /* CustomLog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
